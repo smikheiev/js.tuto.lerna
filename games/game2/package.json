@@ -1,6 +1,6 @@
 {
   "name": "game2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "author": "Serhii Mikheiev",
   "license": "ISC",
   "dependencies": {
-    "core": "^0.1.0"
+    "core": "^0.2.0"
   }
 }
