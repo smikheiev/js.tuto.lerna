@@ -1,5 +1,11 @@
 {
+	"scripts": {
+		"set_local_npm_registry":"npm set registry http://localhost:4873/",
+		"run_local_npm_registry":"sinopia",
+		"restore-npm-registry": "npm set registry https://registry.npmjs.org"
+	},
 	"devDependencies": {
-		"lerna": "^2.11.0"
+		"lerna": "^2.11.0",
+		"sinopia": "^1.4.0"
 	}
 }
