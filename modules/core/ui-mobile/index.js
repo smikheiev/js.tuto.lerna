@@ -1,3 +1,3 @@
 exports.whoami = () => {
-    console.log('ui-mobile 1')
+    console.log('ui-mobile 2')
 }
