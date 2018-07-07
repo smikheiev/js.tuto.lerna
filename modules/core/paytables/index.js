@@ -1,3 +1,3 @@
 exports.whoami = () => {
-    console.log('paytables 1')
+    console.log('paytables 2')
 }
