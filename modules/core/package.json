@@ -1,6 +1,6 @@
 {
   "name": "core",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -8,8 +8,8 @@
   "author": "Serhii Mikheiev",
   "license": "ISC",
   "dependencies": {
-    "paytables": "^0.0.0",
-    "ui-desktop": "^0.0.0",
-    "ui-mobile": "^0.0.0"
+    "paytables": "^0.1.0",
+    "ui-desktop": "^0.1.0",
+    "ui-mobile": "^0.1.0"
   }
 }
