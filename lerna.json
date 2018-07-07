@@ -5,5 +5,13 @@
     "modules/*",
     "games/*"
   ],
+  "command": {
+    "publish": {
+      "ignore": [
+        "game1",
+        "game2"
+      ]
+    }
+  },
   "version": "independent"
 }
